@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\layout_field_and_button_layout.xml.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\layout\\field_and_button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\layout_textview_layout.xml.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\layout\\textview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.fragments.app-merged_res-31:/layout_textview_layout.xml.flat",
+        "source": "com.example.android.fragments.app-main-33:/layout/textview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\layout_fragment_little.xml.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\layout\\fragment_little.xml"
+    },
+    {
+        "merged": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-merged_res-31:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aghaj\\.gradle\\daemon\\7.4\\com.example.android.fragments.app-main-33:\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
