@@ -31,4 +31,5 @@ class TopFragment : ListFragment() {
         // Notify the parent activity of selected item
         (activity as MainActivity).onArticleSelected(position)
     }
+
 }
